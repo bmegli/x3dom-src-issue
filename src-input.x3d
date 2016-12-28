@@ -7,7 +7,7 @@
         <Appearance>
           <Material diffuseColor='0 1 0'/>
         </Appearance>
-        <ExternalGeometry url='src0.src'/>
+        <ExternalGeometry url='ball.src'/>
       </Shape>
 	 </Transform>
   </Scene>
