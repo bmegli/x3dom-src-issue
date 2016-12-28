@@ -6,8 +6,8 @@
       <ExternalShape bboxSize='2 2 2' url='"src1.glb"'/>
     </Transform>
     <Transform scale='0.2 0.2 0.2' translation='0 -4 0'>
-      <ExternalShape bboxCenter='1 3 0.5' bboxSize='10 4 5' url='"src0.glb"'/>
+      <ExternalShape bboxCenter='1 3 0.5' bboxSize='10 4 5' url='"src2.glb"'/>
     </Transform>
-    <ExternalShape bboxCenter='0.00305498 1.11809 -0.12272' bboxSize='2.67383 1.92481 1.62647' url='"src2.glb"'/>
+    <ExternalShape bboxCenter='0.00305498 1.11809 -0.12272' bboxSize='2.67383 1.92481 1.62647' url='"src0.glb"'/>
   </Scene>
 </X3D>
