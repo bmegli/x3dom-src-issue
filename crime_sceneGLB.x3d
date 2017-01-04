@@ -7,7 +7,7 @@
         <Appearance>
           <Material diffuseColor='1 1 1'/>
         </Appearance>
-        <ExternalGeometry url='"crime_scene.glb"/>
+        <ExternalGeometry url='"crime_scene.glb"'/>
       </Shape>
   </Scene>
 </X3D>
