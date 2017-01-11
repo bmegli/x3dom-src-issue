@@ -5,7 +5,7 @@
      <Viewpoint orientation='-0.17891 0.96316 0.20077 1.52241' position='1.44546 0.56506 0.13511'/>
   	 <Shape bboxCenter='0.526495 0.990452 -0.26578' bboxSize='5.00249 2.08094 6.57008'>
         <Appearance>
-          <Material diffuseColor='1 1 1'/>
+			<Material emissiveColor="1 1 1" ></Material>
         </Appearance>
         <ExternalGeometry url='"crime_scene.glb"'/>
       </Shape>
