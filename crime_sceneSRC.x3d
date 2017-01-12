@@ -7,7 +7,7 @@
 		<Appearance>
 			<Material emissiveColor="1 1 1" ></Material>
 		</Appearance>
-		<ExternalGeometry url='"crime_scene.src"'/>
+		<ExternalGeometry url='"crime_scene2.src"'/>
     </Shape>
   </Scene>
 </X3D>
